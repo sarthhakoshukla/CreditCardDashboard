@@ -15,7 +15,7 @@ An interactive dashboard built using Power BI, Excel, and SQL to analyze credit 
 - Dynamic filtering & insights
 
 ## 📊 Dashboard Preview
-**
+
 
 ## 💡 Learnings
 - Hands-on experience with Power BI dashboarding
